@@ -5,16 +5,22 @@ class BlogPostListContainer extends React.Component {
     constructor(props) {
         super(props);
 
-        this.posts = [{
-            title : 'Hello'
-        }];
+        this.posts = [
+            {
+                id : 1,
+                title : 'Hello'
+            },
+            {
+                id : 2,
+                title : 'Bonjour'
+            }
+        ];
     }
 
     render() {
         return (
             <div>
-                <BlogPostList post={this.posts} />
-                <div>Hello from BlogPostListContainer!</div>
+                <BlogPostList posts={this.posts} />
             </div>
         )
     }

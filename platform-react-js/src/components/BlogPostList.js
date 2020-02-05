@@ -8,8 +8,14 @@ class BlogPostList extends React.Component {
 
     }
     render() {
+        const {posts} = this.props;
         return (
-            <div>Hello from  BlogPostList !</div>
+
+            <div>
+                <ul>
+                    {posts && posts.map(post => (<li>{post.title}</li>))}
+                </ul>
+            </div>
         )
     }
 }
