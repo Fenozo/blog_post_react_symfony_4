@@ -1,0 +1,37 @@
+security:
+    # https://symfony.com/doc/current/security.html#where-do-users-come-from-user-providers
+    encoders:
+        App\Entity\User: bcrypt
+    providers:
+#        in_memory: { memory: null }
+        database:
+            entity:
+                class: App\Entity\User
+                property: username
+    firewalls:
+        dev:
+            pattern: ^/(_(profiler|wdt)|css|images|js)/
+            security: false
+        api:
+            pattern: ^/api
+            stateless: true
+            anonymous: true
+            json_login:
+                # Here authentication will happen (token generation)
+                check_path: /api/login_check
+                # Handle successfull authentication
+                success_handler: lexik_jwt_authentication.handler.authentication_success
+                # Handle authentication faillure (invalid credentials, no credentials etc).
+                failure_handler: lexik_jwt_authentication.handler.authentication_failure
+            guard:
+                authenticators:
+                    - App\Security\TokenAuthenticator
+#                    - lexik_jwt_authentication.jwt_token_authenticator
+            user_checker: App\Security\UserEnabledChecker
+
+    access_control:
+        - { path: ^/api,        roles: IS_AUTHENTICATED_ANONYMOUSLY}
+    role_hierarchy:
+        ROLE_WRITER: ROLE_COMMENTATOR
+        ROLE_ADMIN: [ROLE_WRITE, ROLE_EDITOR]
+        ROLE_SUPERADMIN: ROLE_ADMIN

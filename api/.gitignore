@@ -1,0 +1,18 @@
+
+###> symfony/framework-bundle ###
+# /.env.local
+# /.env.local.php
+# /.env.*.local
+# /public/bundles/
+/var/
+./idea/*
+/vendor/*
+###< symfony/framework-bundle ###
+
+###> symfony/web-server-bundle ###
+/.web-server-pid
+###< symfony/web-server-bundle ###
+
+###> lexik/jwt-authentication-bundle ###
+
+###< lexik/jwt-authentication-bundle ###
