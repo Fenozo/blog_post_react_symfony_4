@@ -7,7 +7,8 @@ import {Spinner} from "./Spinner";
 import {commentListFetch, commentListUnload} from "../actions/actions";
 
 const mapeStateToProps = state => ({
-    ...state.blogPost
+    ...state.blogPost,
+    ...state.commentList
 })
 
 const mapDispatchToProps = {
