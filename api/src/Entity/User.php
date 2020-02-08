@@ -42,7 +42,7 @@ use Symfony\Component\Security\Core\Validator\Constraints\UserPassword;
  *          }
  *      },
  *     collectionOperations={
- *
+ *          
  *          "post"={
  *              "denormalization_context"={
  *                  "groups"={"post"}
@@ -71,15 +71,15 @@ class User implements UserInterface
      * @ORM\Id()
      * @ORM\GeneratedValue()
      * @ORM\Column(type="integer")
-     * @Groups({"get","get-post-with-author"})
+     * @Groups({"get","get-post-with-author", "get-comment-with-author"})
      */
     private $id;
 
     /**
      * @ORM\Column(type="string", length=255)
-     * @Groups({"get", "post", "get-comment-with-author", "get-blog-post-with-author"})
      * @Assert\NotBlank(groups={"post"})
      * @Assert\Length(min=6, max=255, groups={"post"})
+     * @Groups({"get", "post", "get-comment-with-author", "get-blog-post-with-author"})
      */
     private $username;
 
@@ -146,10 +146,10 @@ class User implements UserInterface
 
     /**
      * @ORM\Column(type="string", length=255)
-     * @Groups({"post", "put", "get-admin", "get-owner"})
      * @Assert\NotBlank(groups={"post"})
      * @Assert\Email(groups={"post", "put"})
      * @Assert\Length(max="255", groups={"post", "put"})
+     * @Groups({"post", "put", "get-admin", "get-owner",  "get-comment-with-author"})
      */
     private $email;
 

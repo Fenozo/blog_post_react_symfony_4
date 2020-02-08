@@ -35,7 +35,7 @@ export const blogPostListError = (error) =>({
 export const blogPostListFetch = () => {
     return (dispatch) => {
         dispatch(blogPostListRequest());
-        return requests.get('/blog_posts')
+        return requests.get('api/blog_posts')
             .then(response => dispatch(blogPostListReceived(response)))
             .catch(error => dispatch(blogPostListError(error)))
     }
@@ -62,7 +62,7 @@ export const blogPostUnload = () => ({
 export const blogPostFetch = (id) => {
     return (dispatch) => {
         dispatch(blogPostRequest());
-        return requests.get(`/blog_posts/${id}`)
+        return requests.get(`api/blog_posts/${id}`)
             .then(response => dispatch(blogPostReceived(response)))
             .catch(error => dispatch(blogPostError(error)))
     }
@@ -90,7 +90,7 @@ export const commentListUnload = () => ({
 export const commentListFetch = (id) => {
     return (dispatch) => {
         dispatch(commentListRequest());
-        return requests.get(`/blog_posts/${id}/comments`)
+        return requests.get(`my_api/blog_posts/${id}/comments`)
             .then(response => dispatch(commentListReceived(response)))
             .catch(error => dispatch(commentListError(error)))
     }

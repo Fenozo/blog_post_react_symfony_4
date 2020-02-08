@@ -12,12 +12,13 @@ use Symfony\Component\Routing\Annotation\Route;
 /**
  * Class BlogController
  * @package App\Controller
- * @Route("BlogPost")
+ * 
+ * @Route("my_api")
  */
 class BlogController extends AbstractController
 {
     /**
-     * @Route("/blog", name="blog", defaults={"page":5}, requirements={"page"})
+     * @Route("/blog_posts", name="blog", defaults={"page":5}, requirements={"page"})
      */
     public function list($page, Request $request)
     {
@@ -37,9 +38,9 @@ class BlogController extends AbstractController
               'datas' => array_map(function($item) {
 
                   return [
-                      'id'      => $item->getId(),
-                      'title'   => $item->getTitle(),
-                      'content' => $item->getContent(),
+                      'id'       => $item->getId(),
+                      'title'    => $item->getTitle(),
+                      'content'   => $item->getContent(),
                       'createdAt' => $item->getCreatedAt()
 
                   ];
@@ -49,7 +50,7 @@ class BlogController extends AbstractController
     }
 
     /**
-     * @Route("/blog/{id}", name="blog_by_id")
+     * @Route("/blog_post/{id}", name="blog_by_id")
      */
     public function blog_by_id($id)
     {
@@ -62,7 +63,7 @@ class BlogController extends AbstractController
     /**
      * @param $slug
      * @return JsonResponse
-     * @Route("/blog/{slug}", name="blog_by_slug")
+     * @Route("/blog_posts/{slug}", name="blog_by_slug")
      */
     public function blog_by_slug($slug)
     {
@@ -73,7 +74,7 @@ class BlogController extends AbstractController
         );
     }
     /**
-     * @Route("/add", name="blog_add", methods={"POST"})
+     * @Route("/blog_post/add", name="blog_add", methods={"POST"})
      */
     public function add(Request $request)
     {

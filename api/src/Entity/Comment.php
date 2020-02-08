@@ -13,21 +13,29 @@ use Symfony\Component\Validator\Constraints as Assert;
  * @ApiResource(
  *     attributes={"order"={"id":"DESC"}},
  *     itemOperations={
- *          "get",
+ *          "get"={
+ *                  "normalization_context"={
+ *                       "groups"={"get-comment-with-author"}
+ *                  }
+ *              },
  *          "put"={
  *              "access_control"="is_granted('ROLE_EDITOR') or (is_granted('ROLE_COMMENTATOR') and object.getAuthor() == user)"
- *          }
+ *          },
+ *          
  *      },
  *     collectionOperations={
  *          "get",
  *          "post"={
  *              "access_control"="is_granted('ROLE_COMMENTATOR')"
  *          },
- *          "api_blog_posts_comments_get_subresource"={
- *              "normalization_context"={
- *                  "groups"={"get-comment-with-author"}
- *              }
- *          }
+ *           "normalization_context"={
+ *                "groups"={"get-comment-with-author"}
+ *           },
+ *           "api_blog_posts_comments_get_subresource"={
+ *               "normalization_context"={
+ *                   "groups"={"get-comment-with-author"}
+ *               }
+ *           }
  *      },
  *     denormalizationContext={
  *          "groups"={"post"}
@@ -41,7 +49,7 @@ class Comment implements AuthoredEntityInterface, PubishedDateEntityInterface
      * @ORM\Id()
      * @ORM\GeneratedValue()
      * @ORM\Column(type="integer")
-     * @Groups({"get-comment-with-author"})
+     * @Groups({"get", "get-comment-with-author"})
      */
     private $id;
 
@@ -57,7 +65,7 @@ class Comment implements AuthoredEntityInterface, PubishedDateEntityInterface
 
     /**
      * @ORM\Column(type="datetime")
-     * @Groups({"get"})
+     * @Groups({"get-comment-with-author"})
      */
     private $published;
 

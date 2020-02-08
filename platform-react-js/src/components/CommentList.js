@@ -17,13 +17,14 @@ export class CommentList extends React.Component{
                     {
                         commentList && commentList.map((comment, comment_key) => {
                             return (
-                                <div className="card-body" key={comment_key}>
+                                <div className="card-body border-bottom" key={comment_key}>
                                     <p className="card-text">
                                         {comment.content}
                                     </p>
                                     <p className="card-text">
                                         <small className="text-muted">
-                                            {moment(comment.published).fromNow()}
+                                            {moment(comment.published).fromNow()} by&nbsp;
+                                            {comment.author.name}
                                         </small>
                                     </p>
                                 </div>

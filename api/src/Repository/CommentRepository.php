@@ -3,8 +3,10 @@
 namespace App\Repository;
 
 use App\Entity\Comment;
+use App\Entity\BlogPost;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
 use Doctrine\Common\Persistence\ManagerRegistry;
+use Symfony\Component\Routing\RouterInterface;
 
 /**
  * @method Comment|null find($id, $lockMode = null, $lockVersion = null)
@@ -14,9 +16,12 @@ use Doctrine\Common\Persistence\ManagerRegistry;
  */
 class CommentRepository extends ServiceEntityRepository
 {
-    public function __construct(ManagerRegistry $registry)
+    private $router;
+
+    public function __construct(ManagerRegistry $registry, RouterInterface $router)
     {
         parent::__construct($registry, Comment::class);
+        $this->router = $router;
     }
 
     // /**
@@ -35,6 +40,41 @@ class CommentRepository extends ServiceEntityRepository
         ;
     }
     */
+
+    public function getList($post) 
+    {
+        $id = "/my_api/comment/list/";
+        $qb = $this->createQueryBuilder('c');
+       
+        if ( $post instanceof BlogPost) {
+            $id = $this->router->generate('comments_by_blog', ['id' => $post->getId()]);
+            $qb->andWhere('c.blogPost = :post');
+            $qb->setParameter('post', $post->getId());
+        }
+
+        $qb->orderBy('c.id', 'ASC');
+        $commentList = $qb->getQuery()->getResult();
+        $data = [];
+        $data = [
+                    "@id" => $id,
+                ];
+        array_walk($commentList, function($item, $key) use (&$data){
+            $data["hydra:member"][] = [
+                '@type'     => "Comment",
+                'id'        => $item->getId(),
+                'content'   =>  $item->getContent(),
+                'published' => $item->getPublished(),
+                'author' => [
+                        'id'        => $item->getAuthor()->getId(),
+                        'username'  => $item->getAuthor()->getUsername(),
+                        'name'      => $item->getAuthor()->getName(),
+                    ]
+
+            ];
+        });
+
+        return $data;
+    }
 
     /*
     public function findOneBySomeField($value): ?Comment
