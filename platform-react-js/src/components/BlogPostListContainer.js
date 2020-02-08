@@ -18,6 +18,7 @@ class BlogPostListContainer extends React.Component {
 
         this.props.blogPostListFetch();
     }
+
     render() {
         const {posts, isFetching} = this.props;
 

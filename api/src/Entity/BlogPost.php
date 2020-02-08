@@ -52,7 +52,7 @@ use ApiPlatform\Core\Serializer\Filter\PropertyFilter;
  * )
  * @ApiFilter(
  *     RangeFilter::class,
- *     properties={"id"}
+ *     properties={"id","title"}
  * )
  * @ApiFilter(
  *     OrderFilter::class,
@@ -112,7 +112,7 @@ class BlogPost implements AuthoredEntityInterface, PubishedDateEntityInterface
 
     /**
      * @ORM\Column(type="string", length=255)
-     * @Groups({"post"})
+     * @Groups({"post",  "get-blog-post-with-author"})
      * @Assert\NotBlank()
      * @Assert\Length(min=10)
      */
@@ -120,6 +120,7 @@ class BlogPost implements AuthoredEntityInterface, PubishedDateEntityInterface
 
     /**
      * @ORM\Column(type="datetime", nullable=true)
+     * @Groups({"get-blog-post-with-author"})
      */
     private $published;
 

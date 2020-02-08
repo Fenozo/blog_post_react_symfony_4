@@ -1,15 +1,45 @@
 import React from "react";
+import {blogPostFetch, blogPostUnload} from "../actions/actions";
+import {connect} from "react-redux";
+import {BlogPost} from "./BlogPost";
+import {Spinner} from "./Spinner";
+
+import CommentListContainer from "./CommentListContainer";
+
+
+const mapeStateToProps = state => ({
+    ...state.blogPost
+});
+
+const mapDispatchToProps = {
+    blogPostFetch,
+    blogPostUnload
+};
 
 class BlogPostContainer extends React.Component {
 
     componentDidMount() {
-        console.log(this.props);
-        console.log(this.props.match.params.id)
+        this.props.blogPostFetch(this.props.match.params.id).then(_=> console.log(this.props.post));
+    }
+
+    componentWillUnmount() {
+        this.props.blogPostUnload();
     }
 
     render () {
-        return (<div>From Post Container</div>);
+        const {isFetching, post} = this.props;
+
+        if (isFetching) {
+            return (<Spinner/>)
+        }
+
+        return (
+            <div>
+                <BlogPost post={post}/>
+                <CommentListContainer blogPostId={this.props.match.params.id}/>
+            </div>
+        );
     };
 }
 
-export default BlogPostContainer;
+export default connect(mapeStateToProps, mapDispatchToProps)(BlogPostContainer);

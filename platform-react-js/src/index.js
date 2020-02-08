@@ -1,16 +1,23 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import {applyMiddleware, createStore} from "redux";
-import createHistory from "history/createBrowserHistory";
+import history from './history';
 import {ConnectedRouter} from "react-router-redux";
 import {Provider} from "react-redux";
 import App from "./components/App";
 import {Route} from "react-router";
 import reducer from "./reducer";
 import thunkMiddleware from 'redux-thunk';
-import './index.css';
+
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faCoffee } from '@fortawesome/free-solid-svg-icons'
+
+
+// import './index.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './style.css';
 const store = createStore(reducer, applyMiddleware(thunkMiddleware));
-const history = createHistory();
+
 
 ReactDOM.render((
     <Provider store={store}>

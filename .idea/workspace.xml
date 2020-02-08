@@ -1,0 +1,2088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9d8dbb0-4779-4e7a-abef-1917176e434d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Tahina.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/Entity/BlogPost.php" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/Entity/BlogPost.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/Entity/Comment.php" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/Entity/Comment.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/Entity/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/Entity/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mime" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/mime.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/bench.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/abort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/async.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/defer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/iterate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/readable_asynckit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/readable_parallel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/readable_serial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/readable_serial_ordered.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/state.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/streamify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/lib/terminator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/parallel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/serial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/serialOrdered.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/combined-stream/License" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/combined-stream/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/combined-stream/lib/combined_stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/combined-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/combined-stream/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/component-emitter/History.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/component-emitter/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/component-emitter/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/component-emitter/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/component-emitter/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cookiejar/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cookiejar/cookiejar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cookiejar/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cookiejar/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-util-is/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-util-is/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-util-is/float.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-util-is/lib/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-util-is/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-util-is/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/dist/debug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/src/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/src/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/src/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/delayed-stream/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/delayed-stream/License" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/delayed-stream/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/delayed-stream/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/delayed-stream/lib/delayed_stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/delayed-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extend/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extend/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extend/.jscs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extend/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extend/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extend/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extend/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extend/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/form-data/License" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/form-data/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/form-data/README.md.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/form-data/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/form-data/lib/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/form-data/lib/form_data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/form-data/lib/populate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/form-data/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/formidable/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/formidable/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/formidable/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/formidable/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/formidable/lib/file.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/formidable/lib/incoming_form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/formidable/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/formidable/lib/json_parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/formidable/lib/multipart_parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/formidable/lib/octet_parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/formidable/lib/querystring_parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/formidable/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/formidable/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/inherits/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/inherits/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/inherits/inherits.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/inherits/inherits_browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/inherits/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/isarray/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/isarray/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/isarray/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/isarray/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/isarray/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/isarray/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/isarray/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/isarray/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/methods/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/methods/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/methods/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/methods/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/methods/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime-db/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime-db/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime-db/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime-db/db.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime-db/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime-db/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime-types/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime-types/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime-types/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime-types/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime-types/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime/cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime/mime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime/src/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime/src/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime/types.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/process-nextick-args/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/process-nextick-args/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/process-nextick-args/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/process-nextick-args/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/.github/FUNDING.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/dist/qs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/lib/formats.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/lib/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/lib/stringify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/test/.eslintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/test/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/test/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/test/stringify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/test/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/GOVERNANCE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/doc/wg-meetings/2015-01-30.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/duplex-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/duplex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_duplex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_passthrough.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_readable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/_stream_writable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/BufferList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/destroy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/stream-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/lib/internal/streams/stream.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/passthrough.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/readable-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/readable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/writable-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/writable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/safe-buffer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/safe-buffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/safe-buffer/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/safe-buffer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/safe-buffer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string_decoder/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string_decoder/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string_decoder/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string_decoder/lib/string_decoder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string_decoder/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent-promise/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent-promise/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent-promise/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent-promise/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent-promise/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent-promise/browser-test.opts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent-promise/browser_test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent-promise/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent-promise/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent-promise/index_test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent-promise/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent-promise/test/browser_test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent-promise/test/component.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent-promise/test/entrypoint.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent-promise/test/fixture.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent-promise/test/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/.zuul.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/Contributing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/History.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/changelog.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/docs/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/docs/images/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/docs/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/docs/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/docs/tail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/docs/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/lib/agent-base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/lib/client.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/lib/is-object.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/lib/node/agent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/lib/node/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/lib/node/parsers/image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/lib/node/parsers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/lib/node/parsers/json.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/lib/node/parsers/text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/lib/node/parsers/urlencoded.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/lib/node/response.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/lib/node/unzip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/lib/request-base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/lib/response-base.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/node_modules/.bin/mime" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/node_modules/.bin/mime.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/superagent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/superagent/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/util-deprecate/History.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/util-deprecate/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/util-deprecate/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/util-deprecate/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/util-deprecate/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/util-deprecate/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/platform-react-js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/platform-react-js/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platform-react-js/src/actions/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/platform-react-js/src/actions/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platform-react-js/src/components/BlogPostContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/platform-react-js/src/components/BlogPostContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platform-react-js/src/components/BlogPostList.js" beforeDir="false" afterPath="$PROJECT_DIR$/platform-react-js/src/components/BlogPostList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platform-react-js/src/components/LoginForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/platform-react-js/src/components/LoginForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platform-react-js/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/platform-react-js/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platform-react-js/src/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/platform-react-js/src/reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platform-react-js/src/reducers/blogPostList.js" beforeDir="false" afterPath="$PROJECT_DIR$/platform-react-js/src/reducers/blogPostList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/platform-react-js/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/platform-react-js/yarn.lock" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/api/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="BlogController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/src/Controller/BlogController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlogPost.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/src/Entity/BlogPost.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlogPost.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/platform-react-js/src/components/BlogPost.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Comment.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/src/Entity/Comment.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-313">
+              <caret line="67" column="7" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$title</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/api/src/Entity/Comment.php" />
+        <option value="$PROJECT_DIR$/api/src/Entity/BlogPost.php" />
+        <option value="$PROJECT_DIR$/platform-react-js/src/components/BlogPost.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/platform-react-js/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/api/vendor/easycorp/easyadmin-bundle/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@babel/code-frame/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@babel/helper-module-imports/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@babel/highlight/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@babel/highlight/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@babel/highlight/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@babel/highlight/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@babel/runtime/helpers/esm/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@babel/runtime/node_modules/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@babel/runtime/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@babel/types/node_modules/to-fast-properties/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@babel/types/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@emotion/cache/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@emotion/core/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@emotion/css/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@emotion/hash/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@emotion/memoize/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@emotion/serialize/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@emotion/sheet/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@emotion/stylis/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@emotion/unitless/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@emotion/utils/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@emotion/weak-memoize/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@fortawesome/fontawesome-common-types/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@fortawesome/fontawesome-svg-core/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@fortawesome/free-solid-svg-icons/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@fortawesome/react-fontawesome/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/@types/parse-json/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/abab/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/acorn-dynamic-import/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/acorn-globals/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/acorn-jsx/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/acorn-jsx/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/address/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/ajv-keywords/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/alphanum-sort/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/ansi-align/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/ansi-escapes/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/ansi-html/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/anymatch/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/append-transform/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/argparse/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/aria-query/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/arr-flatten/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/arr-union/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/array-equal/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/array-filter/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/array-find-index/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/array-includes/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/array-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/array-reduce/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/array-union/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/array-uniq/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/arrify/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/asn1.js/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/assert/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/assert/node_modules/util/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/assert/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/assign-symbols/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/ast-types-flow/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/async-each/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/atob/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/autoprefixer/node_modules/browserslist/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/autoprefixer/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/autoprefixer/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/autoprefixer/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/autoprefixer/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/autoprefixer/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/autoprefixer/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/axios/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/axobject-query/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-code-frame/node_modules/js-tokens/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-code-frame/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-core/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-eslint/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-generator/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-helper-builder-binary-assignment-operator-visitor/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-helper-builder-react-jsx/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-helper-call-delegate/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-helper-define-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-helper-explode-assignable-expression/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-helper-function-name/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-helper-get-function-arity/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-helper-hoist-variables/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-helper-optimise-call-expression/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-helper-regex/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-helper-remap-async-to-generator/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-helper-replace-supers/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-helpers/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-jest/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-messages/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-check-es2015-constants/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-dynamic-import-node/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-emotion/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-istanbul/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-jest-hoist/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-macros/node_modules/cosmiconfig/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-macros/node_modules/parse-json/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-macros/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-macros/node_modules/resolve/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-macros/node_modules/resolve/test/module_dir/zmodules/bbb/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-macros/node_modules/resolve/test/resolver/baz/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-macros/node_modules/resolve/test/resolver/browser_field/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-macros/node_modules/resolve/test/resolver/dot_main/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-macros/node_modules/resolve/test/resolver/dot_slash_main/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-macros/node_modules/resolve/test/resolver/incorrect_main/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-macros/node_modules/resolve/test/resolver/invalid_main/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-macros/node_modules/resolve/test/resolver/multirepo/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-macros/node_modules/resolve/test/resolver/multirepo/packages/package-a/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-macros/node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-macros/node_modules/resolve/test/resolver/nested_symlinks/mylib/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-macros/node_modules/resolve/test/resolver/symlinked/package/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-macros/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-syntax-async-functions/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-syntax-class-properties/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-syntax-dynamic-import/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-syntax-exponentiation-operator/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-syntax-flow/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-syntax-jsx/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-syntax-object-rest-spread/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-syntax-trailing-function-commas/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-async-to-generator/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-class-properties/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-es2015-arrow-functions/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-es2015-block-scoped-functions/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-es2015-block-scoping/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-es2015-classes/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-es2015-computed-properties/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-es2015-destructuring/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-es2015-duplicate-keys/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-es2015-for-of/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-es2015-function-name/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-es2015-literals/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-es2015-modules-amd/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-es2015-modules-commonjs/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-es2015-modules-systemjs/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-es2015-modules-umd/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-es2015-object-super/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-es2015-parameters/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-es2015-shorthand-properties/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-es2015-spread/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-es2015-sticky-regex/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-es2015-template-literals/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-es2015-typeof-symbol/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-es2015-unicode-regex/node_modules/regexpu-core/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-es2015-unicode-regex/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-exponentiation-operator/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-flow-strip-types/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-object-rest-spread/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-react-constant-elements/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-react-display-name/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-react-jsx-self/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-react-jsx-source/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-react-jsx/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-regenerator/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-runtime/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-plugin-transform-strict-mode/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-preset-env/node_modules/browserslist/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-preset-env/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-preset-flow/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-preset-jest/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-preset-react-app/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-preset-react/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-register/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-runtime/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-template/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-traverse/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babel-types/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/babylon/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/base/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/base/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/base64-js/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/batch/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/big.js/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/binary-extensions/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/bn.js/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/bonjour/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/bonjour/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/boolbase/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/boxen/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/boxen/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/boxen/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/boxen/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/boxen/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/brorand/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/browser-resolve/node_modules/resolve/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/browser-resolve/node_modules/resolve/test/module_dir/zmodules/bbb/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/browser-resolve/node_modules/resolve/test/pathfilter/deep_ref/node_modules/deep/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/browser-resolve/node_modules/resolve/test/resolver/baz/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/browser-resolve/node_modules/resolve/test/resolver/biz/node_modules/garply/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/browser-resolve/node_modules/resolve/test/resolver/incorrect_main/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/browser-resolve/node_modules/resolve/test/subdirs/node_modules/a/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/browser-resolve/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/browserify-aes/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/browserify-cipher/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/browserify-des/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/browserify-rsa/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/browserify-sign/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/browserify-zlib/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/browserslist/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/bser/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/buffer-from/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/buffer-indexof/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/buffer-xor/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/buffer/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/builtin-modules/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/builtin-status-codes/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/cache-base/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/caller-path/node_modules/callsites/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/caller-path/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/callsites/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/camel-case/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/camelcase-keys/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/camelcase-keys/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/caniuse-api/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/caniuse-db/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/caniuse-lite/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/capture-stack-trace/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/case-sensitive-paths-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/chalk/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/chalk/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/chardet/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/chokidar/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/ci-info/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/cipher-base/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/circular-json/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/clap/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/class-utils/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/clean-css/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/clean-css/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/cleave.js/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/cli-boxes/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/cli-cursor/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/cli-width/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/cliui/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/cliui/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/coa/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/code-point-at/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/collection-visit/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/color-string/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/color-string/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/color/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/colormin/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/colors/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/commondir/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/component-emitter/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/compressible/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/compression/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/compression/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/compression/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/computed-style/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/concat-stream/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/config/node_modules/json5/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/config/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/configstore/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/connect-history-api-fallback/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/console-browserify/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/constants-browserify/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/contains-path/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/content-disposition/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/content-type-parser/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/convert-source-map/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/convert-source-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/cookiejar/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/copy-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/cosmiconfig/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/create-ecdh/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/create-error-class/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/create-hash/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/create-hmac/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/cross-env/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/cross-env/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/cross-spawn/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/crypto-browserify/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/crypto-random-string/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/css-color-names/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/css-loader/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/css-select/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/css-selector-tokenizer/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/css-what/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/cssesc/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/cssnano/node_modules/autoprefixer/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/cssnano/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/csso/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/cssom/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/cssstyle/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/csstype/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/currently-unhandled/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/d/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/d3-array/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/d3-collection/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/d3-color/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/d3-contour/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/d3-format/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/d3-geo/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/d3-hexbin/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/d3-hierarchy/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/d3-interpolate/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/d3-path/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/d3-sankey/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/d3-scale/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/d3-shape/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/d3-time-format/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/d3-time/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/d3-voronoi/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/damerau-levenshtein/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/decode-uri-component/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/deep-diff/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/deep-extend/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/deep-is/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/default-require-extensions/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/define-properties/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/define-property/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/define-property/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/define-property/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/define-property/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/define-property/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/define-property/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/defined/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/del/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/des.js/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/detect-indent/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/detect-node/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/detect-port-alt/node_modules/address/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/detect-port-alt/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/diff/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/diffie-hellman/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dns-equal/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dns-packet/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dns-txt/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/doctrine/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-converter/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/activeElement/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/addClass/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/addEventListener/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/animate/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/animationFrame/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/camelize/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/camelizeStyle/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/canUseDOM/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/closest/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/contains/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/css/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/filterEventHandler/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/getComputedStyle/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/getScrollAccessor/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/hasClass/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/height/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/hyphenate/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/hyphenateStyle/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/isDocument/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/isTransform/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/isWindow/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/listen/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/matches/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/offset/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/offsetParent/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/ownerDocument/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/ownerWindow/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/position/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/querySelectorAll/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/removeClass/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/removeEventListener/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/scrollLeft/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/scrollParent/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/scrollTo/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/scrollTop/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/scrollbarSize/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/toggleClass/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/transitionEnd/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-helpers/width/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-serializer/node_modules/domelementtype/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-serializer/node_modules/entities/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-serializer/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-urls/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dom-walk/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/domain-browser/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/domelementtype/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/domhandler/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/domutils/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dot-prop/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dotenv-expand/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/dotenv/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/duplexer/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/duplexer3/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/electron-to-chromium/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/elliptic/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/emoji-regex/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/emojis-list/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/enhanced-resolve/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/entities/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/errno/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/error-ex/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/es-abstract/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/es-to-primitive/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/es5-ext/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/es6-iterator/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/es6-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/es6-promise/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/es6-set/node_modules/es6-symbol/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/es6-set/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/es6-symbol/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/es6-weak-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/escodegen/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/escodegen/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/escope/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint-config-react-app/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint-import-resolver-node/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint-loader/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint-module-utils/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint-plugin-flowtype/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint-plugin-import/memo-parser/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint-plugin-import/node_modules/doctrine/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint-plugin-import/node_modules/load-json-file/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint-plugin-import/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint-plugin-import/node_modules/read-pkg-up/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint-plugin-import/node_modules/read-pkg/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint-plugin-import/node_modules/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint-plugin-import/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint-plugin-jsx-a11y/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint-plugin-react/node_modules/jsx-ast-utils/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint-plugin-react/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint-scope/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eslint/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/espree/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/espree/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/esquery/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/esrecurse/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/estraverse/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/esutils/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/event-emitter/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eventemitter3/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/events/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/eventsource/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/evp_bytestokey/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/exec-sh/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/execa/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/expand-range/node_modules/fill-range/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/expand-range/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/expand-range/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/expand-range/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/expand-tilde/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/express/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/express/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/ext/node_modules/type/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/ext/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/external-editor/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/extract-text-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/fast-levenshtein/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/fastparse/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/faye-websocket/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/fb-watchman/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/figures/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/file-entry-cache/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/file-loader/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/filename-regex/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/fileset/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/filesize/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/fill-range/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/find-cache-dir/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/find-root/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/flat-cache/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/flat-cache/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/flatten/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/follow-redirects/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/follow-redirects/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/for-in/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/for-own/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/formidable/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/fragment-cache/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/fs-extra/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/function-bind/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/functional-red-black-tree/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/get-caller-file/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/get-stdin/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/get-stream/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/get-value/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/glob-base/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/global-dirs/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/global-modules/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/global-prefix/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/global/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/globals/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/globby/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/got/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/growly/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/gzip-size/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/handle-thing/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/handlebars/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/handlebars/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/har-validator/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/har-validator/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/har-validator/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/has-symbols/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/has-value/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/has-values/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/has-values/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/has/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/hash-base/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/hash.js/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/he/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/history/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/hmac-drbg/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/hoek/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/hoist-non-react-statics/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/home-or-tmp/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/homedir-polyfill/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/hosted-git-info/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/hpack.js/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/html-comment-regex/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/html-element-attributes/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/html-encoding-sniffer/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/html-entities/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/html-minifier/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/html-minifier/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/html-minifier/node_modules/uglify-js/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/html-minifier/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/html-minifier/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/html-webpack-plugin/node_modules/big.js/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/html-webpack-plugin/node_modules/loader-utils/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/html-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/htmlparser2/node_modules/domutils/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/htmlparser2/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/htmlparser2/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/http-deceiver/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/http-parser-js/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/http-proxy-middleware/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/http-proxy-middleware/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/http-proxy-middleware/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/http-proxy/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/http-proxy/node_modules/follow-redirects/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/http-proxy/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/http-proxy/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/https-browserify/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/icss-replace-symbols/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/icss-utils/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/icss-utils/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/icss-utils/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/icss-utils/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/icss-utils/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/icss-utils/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/ieee754/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/ignore/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/import-fresh/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/import-fresh/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/import-lazy/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/import-local/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/imurmurhash/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/indent-string/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/indexes-of/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/inquirer/node_modules/ansi-escapes/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/inquirer/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/inquirer/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/inquirer/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/inquirer/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/inquirer/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/inquirer/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/internal-ip/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/interpret/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/invariant/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/invert-kv/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/ip/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-absolute-url/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-arguments/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-arrayish/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-binary-path/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-builtin-module/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-callable/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-ci/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-date-object/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-directory/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-dotfile/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-equal-shallow/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-finite/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-installed-globally/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-npm/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-obj/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-path-cwd/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-path-in-cwd/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-path-inside/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-plain-obj/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-plain-object/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-posix-bracket/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-primitive/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-promise/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-redirect/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-regex/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-resolvable/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-retry-allowed/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-root/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-string/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-svg/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-symbol/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-utf8/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-windows/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/is-wsl/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/isexe/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/istanbul-api/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/istanbul-lib-coverage/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/istanbul-lib-hook/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/istanbul-lib-instrument/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/istanbul-lib-report/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/istanbul-lib-source-maps/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/istanbul-lib-source-maps/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/istanbul-lib-source-maps/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/istanbul-reports/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jest-changed-files/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jest-cli/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jest-config/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jest-diff/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jest-docblock/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jest-environment-jsdom/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jest-environment-node/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jest-haste-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jest-jasmine2/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jest-matcher-utils/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jest-matchers/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jest-message-util/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jest-mock/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jest-regex-util/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jest-resolve-dependencies/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jest-resolve/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jest-runtime/node_modules/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jest-runtime/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jest-snapshot/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jest-util/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jest-validate/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jest/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/js-base64/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/js-tokens/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/js-yaml/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jsdom/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jsdom/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jsdom/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/json-loader/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/json-parse-better-errors/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/json3/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/json5/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jsonfile/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jsonify/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/jsx-ast-utils/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/killable/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/klaw/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/latest-version/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/lcid/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/leven/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/levn/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/line-height/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/lines-and-columns/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/load-json-file/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/loadash/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/loader-fs-cache/node_modules/find-cache-dir/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/loader-fs-cache/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/loader-fs-cache/node_modules/pkg-dir/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/loader-fs-cache/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/loader-runner/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/loader-utils/node_modules/json5/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/loader-utils/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/locate-path/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/locate-path/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/lodash-es/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/lodash._reinterpolate/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/lodash.camelcase/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/lodash.cond/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/lodash.defaults/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/lodash.memoize/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/lodash.template/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/lodash.templatesettings/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/lodash.uniq/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/loglevel/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/loose-envify/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/loud-rejection/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/lower-case/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/lowercase-keys/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/lru-cache/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/make-dir/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/make-dir/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/makeerror/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/map-cache/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/map-obj/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/map-visit/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/marked/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/math-expression-evaluator/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/math-random/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/md5.js/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/mem/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/memoize-one/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/memory-fs/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/meow/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/merge/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/micromatch/node_modules/arr-diff/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/micromatch/node_modules/array-unique/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/micromatch/node_modules/braces/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/miller-rabin/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/mimic-fn/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/min-document/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/minimalistic-assert/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/minimalistic-crypto-utils/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/mixin-deep/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/mixin-deep/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/mkdirp/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/moment/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/multicast-dns-service-types/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/multicast-dns/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/mute-stream/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/nanomatch/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/nanomatch/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/nanomatch/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/nanomatch/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/nanomatch/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/natural-compare/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/neo-async/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/next-tick/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/nice-try/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/no-case/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/node-forge/flash/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/node-forge/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/node-int64/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/node-libs-browser/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/node-notifier/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/normalize-package-data/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/normalize-path/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/normalize-range/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/normalize-url/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/npm-run-path/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/nth-check/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/num2fraction/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/number-is-nan/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/nwmatcher/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/object-copy/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/object-hash/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/object-inspect/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/object-is/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/object-keys/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/object-visit/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/object.assign/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/object.omit/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/object.pick/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/obuf/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/on-headers/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/onetime/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/opn/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/optimist/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/optimist/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/optimist/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/optionator/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/original/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/os-browserify/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/os-locale/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/p-finally/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/p-limit/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/p-locate/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/p-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/p-try/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/package-json/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/pako/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/param-case/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/parent-module/node_modules/callsites/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/parent-module/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/parse-asn1/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/parse-glob/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/parse-json/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/parse-passwd/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/parse5/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/pascalcase/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/path-browserify/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/path-dirname/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/path-exists/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/path-is-inside/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/path-key/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/path-parse/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/path-to-regexp/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/pbkdf2/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/pinkie-promise/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/pinkie/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/pkg-dir/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/pluralize/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/portfinder/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/portfinder/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/portfinder/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/posix-character-classes/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-calc/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-colormin/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-convert-values/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-discard-comments/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-discard-duplicates/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-discard-empty/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-discard-overridden/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-discard-unused/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-filter-plugins/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-flexbugs-fixes/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-flexbugs-fixes/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-flexbugs-fixes/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-flexbugs-fixes/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-flexbugs-fixes/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-flexbugs-fixes/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-load-config/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-load-options/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-load-plugins/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-loader/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-loader/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-loader/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-loader/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-loader/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-loader/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-merge-idents/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-merge-longhand/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-merge-rules/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-message-helpers/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-minify-font-values/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-minify-gradients/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-minify-params/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-minify-selectors/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-extract-imports/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-extract-imports/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-extract-imports/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-extract-imports/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-extract-imports/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-extract-imports/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-local-by-default/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-local-by-default/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-local-by-default/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-local-by-default/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-local-by-default/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-local-by-default/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-scope/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-scope/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-scope/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-scope/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-scope/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-scope/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-values/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-values/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-values/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-values/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-values/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-modules-values/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-normalize-charset/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-normalize-url/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-ordered-values/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-reduce-idents/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-reduce-initial/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-reduce-transforms/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-selector-parser/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-svgo/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-unique-selectors/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-value-parser/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss-zindex/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/prelude-ls/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/prepend-http/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/preserve/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/pretty-bytes/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/pretty-error/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/pretty-format/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/private/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/process/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/progress/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/prop-types/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/prr/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/pseudomap/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/psl/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/public-encrypt/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/q/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/query-string/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/querystring-es3/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/querystring/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/querystringify/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/raf/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/randomatic/node_modules/is-number/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/randomatic/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/randomatic/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/randombytes/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/randomfill/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/rc/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-confirm-alert/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-currency-format/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-currency-formatter/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-dev-utils/node_modules/sockjs-client/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-dev-utils/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-dom/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-error-overlay/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-html-attributes/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-icons/ai/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-icons/bs/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-icons/di/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-icons/fa/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-icons/fi/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-icons/gi/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-icons/go/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-icons/io/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-icons/lib/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-icons/md/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-icons/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-icons/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-icons/ri/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-icons/src/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-icons/ti/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-icons/wi/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-input-autosize/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-is/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-lifecycles-compat/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-moment/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-motion/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-motion/node_modules/raf/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-motion/node_modules/raf/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-motion/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-notifications-component/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-redux/node_modules/hoist-non-react-statics/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-redux/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-router-dom/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-router-redux/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-router/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-scripts/node_modules/babel-core/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-scripts/node_modules/babel-loader/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-scripts/node_modules/dotenv/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-scripts/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-scrollbar/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-select/animated/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-select/async-creatable/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-select/async/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-select/base/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-select/creatable/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-select/node_modules/dom-helpers/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-select/node_modules/react-transition-group/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-select/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-transition-group/CSSTransition/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-transition-group/ReplaceTransition/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-transition-group/SwitchTransition/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-transition-group/Transition/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-transition-group/TransitionGroup/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-transition-group/TransitionGroupContext/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-transition-group/config/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-transition-group/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react-vis/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/react/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/read-pkg-up/node_modules/find-up/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/read-pkg-up/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/read-pkg/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/readable-stream/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/readable-stream/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/readdirp/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/readdirp/node_modules/expand-brackets/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/readdirp/node_modules/expand-brackets/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/readdirp/node_modules/expand-brackets/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/readdirp/node_modules/expand-brackets/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/readdirp/node_modules/expand-brackets/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/readdirp/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/readdirp/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/readdirp/node_modules/extglob/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/readdirp/node_modules/extglob/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/readdirp/node_modules/extglob/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/readdirp/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/readdirp/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/readdirp/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/readdirp/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/readdirp/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/readdirp/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/readdirp/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/readdirp/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/readdirp/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/recursive-readdir/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/recursive-readdir/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/redent/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/reduce-css-calc/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/reduce-css-calc/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/reduce-function-call/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/redux-devtools-extension/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/redux-logger/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/redux-thunk/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/redux/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/regenerate/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/regenerator-runtime/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/regenerator-transform/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/regex-cache/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/regex-not/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/regex-not/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/regex-not/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/regexp.prototype.flags/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/regexpu-core/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/registry-auth-token/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/registry-url/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/regjsgen/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/regjsparser/node_modules/jsesc/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/regjsparser/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/relateurl/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/remove-trailing-separator/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/renderkid/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/repeat-element/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/repeating/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/request/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/request/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/require-directory/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/require-from-string/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/require-main-filename/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/require-uncached/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/requires-port/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/resolve-cwd/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/resolve-cwd/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/resolve-dir/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/resolve-pathname/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/resolve-url/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/resolve/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/resolve/test/module_dir/zmodules/bbb/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/resolve/test/resolver/baz/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/resolve/test/resolver/browser_field/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/resolve/test/resolver/dot_main/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/resolve/test/resolver/dot_slash_main/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/resolve/test/resolver/incorrect_main/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/resolve/test/resolver/invalid_main/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/resolve/test/resolver/multirepo/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/resolve/test/resolver/multirepo/packages/package-a/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/resolve/test/resolver/multirepo/packages/package-b/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/resolve/test/resolver/nested_symlinks/mylib/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/resolve/test/resolver/symlinked/package/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/restore-cursor/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/ret/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/right-align/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/ripemd160/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/run-async/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/rx-lite-aggregates/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/rx-lite/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/safe-regex/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/sane/node_modules/bser/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/sane/node_modules/fb-watchman/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/sane/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/sax/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/scheduler/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/schema-utils/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/select-hose/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/selfsigned/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/semver-diff/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/send/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/send/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/serve-index/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/serve-index/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/serve-index/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/serve-index/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/serviceworker-cache-polyfill/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/set-blocking/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/set-value/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/setimmediate/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/sha.js/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/shebang-command/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/shebang-regex/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/shell-quote/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/shellwords/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/slash/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/slice-ansi/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/snapdragon-node/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/snapdragon-node/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/snapdragon-util/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/snapdragon/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/sockjs-client/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/sockjs/examples/echo/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/sockjs/examples/express-3.x/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/sockjs/examples/express/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/sockjs/examples/hapi/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/sockjs/examples/koa/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/sockjs/examples/multiplex/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/sockjs/node_modules/faye-websocket/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/sockjs/node_modules/uuid/benchmark/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/sockjs/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/sockjs/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/sort-keys/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/source-list-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/source-map-resolve/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/source-map-support/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/source-map-url/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/spdx-correct/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/spdx-exceptions/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/spdx-expression-parse/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/spdx-license-ids/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/spdy-transport/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/spdy/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/split-string/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/split-string/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/split-string/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/sprintf-js/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/static-extend/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/stream-browserify/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/stream-http/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/stream-http/test/browser/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/strict-uri-encode/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/string-length/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/string-width/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/string-width/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/string.prototype.trimleft/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/string.prototype.trimright/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/strip-eof/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/strip-indent/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/strip-json-comments/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/style-loader/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/superagent-promise/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/superagent/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/superagent/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/superagent/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/superagent/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/svgo/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/svgo/node_modules/js-yaml/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/svgo/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/sw-precache-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/sw-precache/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/sw-toolbox/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/symbol-observable/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/symbol-tree/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/table/node_modules/ajv-keywords/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/table/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/table/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/table/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/table/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/table/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/table/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/table/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/tapable/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/term-size/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/test-exclude/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/text-table/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/throat/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/through/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/thunky/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/time-stamp/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/timed-out/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/timers-browserify/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/tiny-invariant/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/tiny-warning/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/tmp/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/tmpl/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/to-arraybuffer/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/to-fast-properties/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/to-object-path/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/to-regex-range/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/to-regex/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/to-regex/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/to-regex/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/to-regex/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/toidentifier/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/toposort/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/tr46/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/trim-newlines/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/trim-right/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/tty-browserify/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/type-check/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/type/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/typedarray/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/uglify-to-browserify/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/uglifyjs-webpack-plugin/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/uglifyjs-webpack-plugin/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/uglifyjs-webpack-plugin/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/uglifyjs-webpack-plugin/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/uglifyjs-webpack-plugin/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/union-value/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/uniq/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/uniqs/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/unique-string/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/universalify/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/unset-value/node_modules/has-value/node_modules/isobject/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/unset-value/node_modules/has-value/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/unset-value/node_modules/has-values/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/unset-value/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/unzip-response/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/upath/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/update-notifier/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/update-notifier/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/update-notifier/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/update-notifier/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/upper-case/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/uri-js/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/uri-js/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/urijs/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/urix/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/url-exists/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/url-loader/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/url-parse-lax/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/url-parse/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/url/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/url/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/use/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/util/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/util/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/utila/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/validate-npm-package-license/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/value-equal/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/vendors/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/verror/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/vm-browserify/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/walker/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/warning/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watch/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/anymatch/node_modules/normalize-path/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/anymatch/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/chokidar/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/expand-brackets/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/expand-brackets/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/expand-brackets/node_modules/is-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/expand-brackets/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/expand-brackets/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/expand-brackets/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/extglob/node_modules/define-property/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/extglob/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/extglob/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/extglob/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/glob-parent/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/glob-parent/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/is-accessor-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/is-accessor-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/is-data-descriptor/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/is-data-descriptor/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/is-extglob/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/is-glob/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/micromatch/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/node_modules/normalize-path/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/watchpack/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/wbuf/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webidl-conversions/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack-dev-middleware/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack-dev-server/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack-dev-server/node_modules/del/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack-dev-server/node_modules/globby/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack-dev-server/node_modules/globby/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack-dev-server/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack-dev-server/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack-dev-server/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack-dev-server/node_modules/opn/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack-dev-server/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack-dev-server/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack-dev-server/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack-dev-server/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack-dev-server/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack-dev-server/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack-manifest-plugin/node_modules/fs-extra/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack-manifest-plugin/node_modules/jsonfile/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack-manifest-plugin/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack-sources/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack-sources/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack/node_modules/load-json-file/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack/node_modules/os-locale/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack/node_modules/path-type/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack/node_modules/read-pkg-up/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack/node_modules/read-pkg/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack/node_modules/strip-bom/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack/node_modules/which-module/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/webpack/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/websocket-driver/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/websocket-extensions/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/whatwg-encoding/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/whatwg-fetch/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/whatwg-url/node_modules/webidl-conversions/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/whatwg-url/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/whet.extend/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/which-module/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/which/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/widest-line/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/word-wrap/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/worker-farm/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/wrap-ansi/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/wrap-ansi/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/wrap-ansi/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/write-file-atomic/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/write/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/xdg-basedir/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/xml-name-validator/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/y18n/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/yallist/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/yaml/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/yargs-parser/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/yargs/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/yargs/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/platform-react-js/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/api/vendor/ocramius/package-versions" />
+      <path value="$PROJECT_DIR$/api/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/api/vendor/easycorp/easyadmin-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/doctrine-fixtures-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/data-fixtures" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/api/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/form" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/intl" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/orm-pack" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/web-link" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/inflector" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/web-server-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/api/vendor/symfony/security-guard" />
+      <path value="$PROJECT_DIR$/api/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/nelmio/cors-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/namshi/jose" />
+      <path value="$PROJECT_DIR$/api/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/api/vendor/lexik/jwt-authentication-bundle" />
+      <path value="$PROJECT_DIR$/api/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/api/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/api/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/api/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/api/vendor/composer" />
+      <path value="$PROJECT_DIR$/api/vendor/zendframework/zend-eventmanager" />
+      <path value="$PROJECT_DIR$/api/vendor/zendframework/zend-code" />
+      <path value="$PROJECT_DIR$/api/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/api/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/api/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/api/vendor/api-platform/api-pack" />
+      <path value="$PROJECT_DIR$/api/vendor/api-platform/core" />
+      <path value="$PROJECT_DIR$/api/vendor/willdurand/negotiation" />
+      <path value="$PROJECT_DIR$/api/vendor/pagerfanta/pagerfanta" />
+      <path value="$PROJECT_DIR$/api/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/api/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/api/vendor/ocramius/proxy-manager" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1560" />
+    <option name="y" value="-8" />
+    <option name="width" value="1159" />
+    <option name="height" value="444" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rest_blog_symfony_43" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest_blog_symfony_43" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest_blog_symfony_43" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest_blog_symfony_43" type="462c0819:PsiDirectoryNode" />
+              <item name="platform-react-js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest_blog_symfony_43" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest_blog_symfony_43" type="462c0819:PsiDirectoryNode" />
+              <item name="platform-react-js" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest_blog_symfony_43" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest_blog_symfony_43" type="462c0819:PsiDirectoryNode" />
+              <item name="platform-react-js" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/platform-react-js" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Tahina\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9d8dbb0-4779-4e7a-abef-1917176e434d" name="Default" comment="" />
+      <created>1581085160648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581085160648</updated>
+      <workItem from="1581085194938" duration="4302000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4302000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20726173" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" weight="0.48671097" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/platform-react-js/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264">
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform-react-js/src/agent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform-react-js/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-220">
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/Entity/Comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-313">
+          <caret line="67" column="7" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/Controller/BlogController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/Entity/BlogPost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platform-react-js/src/components/BlogPost.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

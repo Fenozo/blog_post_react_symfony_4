@@ -1,5 +1,6 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
+import moment from 'moment/moment';
 class BlogPostList extends React.Component {
 
     constructor(props) {
@@ -13,7 +14,7 @@ class BlogPostList extends React.Component {
         // posts === undefined ? console.log('it is undefined') : console.log('---');
 
         if(isFetching) {
-            return (<div><i className="fas fa-spinner fa-spin"/>Loading...</div>);
+            return (<div>Loading ..</div>);
         }
 
         return (
@@ -30,7 +31,7 @@ class BlogPostList extends React.Component {
                                 </h3>
                                 <p className="card-text border-top">
                                     <small className="text-muted">
-                                        {post.published}
+                                        {moment(post.published).format('DD-MM-YY')}
                                     </small>
                                 </p>
                             </div>

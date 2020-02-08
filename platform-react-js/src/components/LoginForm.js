@@ -6,11 +6,11 @@ class LoginForm extends React.Component {
             <div>
                 <form action="">
                     <div className="form-group">
-                        <input type="text" class="form-control" name="" />
+                        <input type="text" className="form-control" name="" />
                     </div>
 
                     <div className="form-group">
-                        <input type="text" class="form-control" name="" />
+                        <input type="text" className="form-control" name="" />
                     </div>
 
                     <button className="btn btn-info"> Se connecter </button>

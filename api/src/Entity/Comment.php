@@ -57,6 +57,7 @@ class Comment implements AuthoredEntityInterface, PubishedDateEntityInterface
 
     /**
      * @ORM\Column(type="datetime")
+     * @Groups({"get"})
      */
     private $published;
 
@@ -70,7 +71,7 @@ class Comment implements AuthoredEntityInterface, PubishedDateEntityInterface
     /**
      * @ORM\ManyToOne(targetEntity="App\Entity\BlogPost", inversedBy="comments")
      * @ORM\JoinColumn(nullable=false)
-     * @Groups({"post"})
+     * @Groups({"get", "post"})
      */
     private $blogPost;
 
