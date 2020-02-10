@@ -56,7 +56,9 @@ class CommentRepository extends ServiceEntityRepository
         $commentList = $qb->getQuery()->getResult();
         $data = [];
         $data = [
-                    "@id" => $id,
+                    "@context"  => "/api/contexts/Comment",
+                    "@id"       => $id,
+                    "@type"     => "hydra:Collection",
                 ];
         array_walk($commentList, function($item, $key) use (&$data){
             $data["hydra:member"][] = [
