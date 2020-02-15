@@ -30,6 +30,7 @@ class CommentListContainer extends React.Component {
 
         if (isFetching) {
             return (<Spinner/>)
+
         }
 
         return (<CommentList commentList={commentList}/>)
