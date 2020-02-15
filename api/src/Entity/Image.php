@@ -1,10 +1,12 @@
 <?php
 
 namespace App\Entity;
-use ApiPlatform\Core\Annotation\ApiResource;
-use Doctrine\ORM\Mapping as ORM;
-use Vich\UploaderBundle\Mapping\Annotation as Vich;
 
+use Doctrine\ORM\Mapping as ORM;
+use App\Controller\UploadImageAction;
+use ApiPlatform\Core\Annotation\ApiResource;
+use Symfony\Component\Validator\Constraints as Assert;
+use Vich\UploaderBundle\Mapping\Annotation as Vich;
 
 /**
 * @ORM\Entity()
@@ -12,11 +14,11 @@ use Vich\UploaderBundle\Mapping\Annotation as Vich;
 * @ApiResource(
 * 	collectionOperations={
 *		"get",
-*		"post" = {
+*		"post"={
 * 				"method"="POST",
 *				"path"="/images",
 *				"controller"=UploadImageAction::class,
-*				"default"={"_api_receive"=false}
+*				"defaults"={"_api_receive"=false}
 *		}
 * 	}
 * )

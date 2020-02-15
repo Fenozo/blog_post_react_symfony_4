@@ -3,11 +3,12 @@
 namespace App\Controller;
 
 use App\Entity\Image;
-use Symfony\Component\Form\FormFactoryInterface;
-use Symfony\Component\HttpFoundation\Request;
+use App\Form\ImageType;
 use Doctrine\ORM\EntityManagerInterface;
-use Symfony\Component\Validator\Validator\ValidatorInterface;
-use Symfony\Component\Validator\Exception\ValidatorException;
+use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\Form\FormFactoryInterface;
+use ApiPlatform\Core\Validator\Exception\ValidationException;
+use ApiPlatform\Core\Validator\ValidatorInterface;
 
 class UploadImageAction {
 
@@ -29,11 +30,10 @@ class UploadImageAction {
     public function __invoke(Request $request)
     {
         // Creact a new Image instance
-
         $image = new Image();
 
         // Validate the form
-        $form = $this->formFactory->creacte(null, $image);
+        $form = $this->formFactory->create(ImageType::class, $image);
         $form->handleRequest($request);
 
         if ($form->isSubmitted() && $form->isValid()) {
@@ -49,7 +49,7 @@ class UploadImageAction {
 
         // Throw an validator exception, that means something worng during 
         // form validation
-        throw new ValidatorException(
+        throw new ValidationException(
             $this->validator->validate($image)
         );
     }
