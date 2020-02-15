@@ -89,7 +89,7 @@ use ApiPlatform\Core\Bridge\Doctrine\Orm\Filter\SearchFilter;
  *          }
  *      },
  *     denormalizationContext={
- *          "groups"={"post"}
+ *          "groups"={"post","put"}
  *     }
  * )
  */
@@ -150,7 +150,7 @@ class BlogPost implements AuthoredEntityInterface, PubishedDateEntityInterface
      * @ORM\ManyToMany(targetEntity="App\Entity\Image")
      * @ORM\JoinTable()
      * @ApiSubresource()
-     * @Groups({"get-blog-post-with-author"})
+     * @Groups({"post","put"})
      */
     private $images;
 
