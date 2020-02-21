@@ -1,11 +1,12 @@
 import React from "react";
-import LoginForm from "./LoginForm";
 import {Switch} from "react-router-dom";
 import {Route} from "react-router";
 import BlogPostList from "./BlogPostList";
 import Header from './Header';
 import BlogPostListContainer from "./BlogPostListContainer";
 import BlogPostContainer from "./BlogPostContainer";
+import LoginForm from "./LoginForm";
+
 
 class App extends React.Component {
     render() {
