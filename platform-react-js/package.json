@@ -17,7 +17,7 @@
     "history": "^4.10.1",
     "loadash": "^1.0.0",
     "marked": "^0.3.6",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "prop-types": "^15.5.10",
     "react": "^16.3.0",
     "react-confirm-alert": "^2.4.1",
